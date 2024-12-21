@@ -12,10 +12,6 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
