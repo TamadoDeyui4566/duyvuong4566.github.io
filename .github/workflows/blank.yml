@@ -17,6 +17,9 @@ domain: TamadoDeyui4566.github.io       # if you want to force HTTPS, specify th
 url: https://TamadoDeyui4566.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /Translates/      # place folder name if the site is served in a subfolder
 
+baseurl: /jekyll_tutorial
+url: https://TamadoDeyui.github.io/duyvuong4566.github.io/
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
